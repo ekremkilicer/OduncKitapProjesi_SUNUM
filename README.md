@@ -20,4 +20,4 @@ Proje AspNet MVC yapısıyla yazılmıştır. Proje Entity Framework DBFirst-Dat
 ![1](https://user-images.githubusercontent.com/120444709/212544780-06a5f9dc-0391-4805-82cf-4dd341fff05c.png)
 ![2](https://user-images.githubusercontent.com/120444709/212544783-f9bc3440-d60f-4c16-a800-93c4a71b58c2.png)
 ![3](https://user-images.githubusercontent.com/120444709/212544786-1813c98e-3509-4678-b61f-ad70c769f4df.png)
-![4](https://user-images.githubusercontent.com/120444709/212544788-4896d303-1ed8-48bf-9e20-76b404caa858.png)
+![5](https://user-images.githubusercontent.com/120444709/212544844-144ba89b-7224-43b0-8827-4222e52e62c0.png)
